@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @diogobeloads
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning Python and i'm interested in learning javascript.
 - 💞️ I’m looking to collaborate on python projects for beginners.
 - 📫 You can reach me by email: diogobelodss22@gmail.com
