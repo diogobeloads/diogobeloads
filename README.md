@@ -1,4 +1,4 @@
-### Olá, eu sou o Diogo Belo ✌️
+### Olá, eu sou o Diogo Belo.
 
 
 
