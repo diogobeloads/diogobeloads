@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,tailwind,bootstrap,sass,git,github,vite" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,bootstrap,git,github,vite" alt="Tech Stack" />
 </p>
 
 ---
