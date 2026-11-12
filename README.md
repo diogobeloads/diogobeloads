@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o Diogo! 👋</h1>
 <p align="center">
-  <b>Front-End Developer</b> apaixonado por criar experiências incríveis na web.
+  <b>Front-End Developer & QA Engineer</b> apaixonado por criar e garantir experiências incríveis na web.
 </p>
 
 ---
@@ -15,6 +15,8 @@
 
 - 🎨 Amo transformar ideias em interfaces bonitas e funcionais.
 - 💻 Trabalho com desenvolvimento web focado em <b>Front-End</b>.
+- 🧪 Atuo com <b>Qualidade de Software</b>, unindo visão de desenvolvedor e de QA para entregar produtos mais confiáveis.
+- 🤖 Apaixonado por <b>automação de testes</b> e por prevenir bugs antes que cheguem ao usuário.
 - 📚 Sempre aprendendo novas tecnologias e tendências do mercado.
 - 🤝 Aberto para colaborações e projetos desafiadores!
 
@@ -30,9 +32,25 @@
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=222)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=fff)
 
-- **Controle de Versão:**  
+- **Testes & Qualidade (QA):**  
+  ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=fff)
+  ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=fff)
+  ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=fff)
+
+- **Controle de Versão & CI:**  
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=fff)
+  ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=fff)
+
+## 🧪 Experiência em QA & Automação de Testes
+
+- ✅ **Automação E2E com Cypress:** criação e manutenção de suítes de testes end-to-end, com comandos customizados, fixtures, intercepts de rede e boas práticas como Page Objects.
+- 🔌 **Testes de API:** validação de endpoints (status, contratos e payloads) com Cypress e Postman.
+- 📝 **Planejamento de testes:** elaboração de plano de testes, casos de teste e cenários em <b>BDD (Gherkin)</b>.
+- 🔍 **Testes manuais e exploratórios:** funcionais, regressivos, smoke e de usabilidade.
+- 🐞 **Gestão de bugs:** registro, priorização e acompanhamento de defeitos com relatórios claros e reproduzíveis.
+- ⚙️ **CI/CD:** execução automatizada dos testes em pipelines com GitHub Actions.
+- 🧭 **Metodologias:** atuação em times <b>Ágeis (Scrum e Kanban)</b>, aplicando a pirâmide de testes, shift-left testing e testes baseados em risco.
 
 ## 📈 GitHub Stats
 
@@ -49,4 +67,5 @@
 </p>
 
 <p align="center">
-  <b>Vamos criar
+  <b>Vamos criar software com qualidade, do código ao teste! 🚀</b>
+</p>
