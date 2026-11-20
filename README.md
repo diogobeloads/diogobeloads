@@ -13,7 +13,6 @@
 
 ## 🚀 Sobre mim
 
-- 🎨 Amo transformar ideias em interfaces bonitas e funcionais.
 - 💻 Trabalho com desenvolvimento web focado em <b>Front-End</b>.
 - 🧪 Atuo com <b>Qualidade de Software</b>, unindo visão de desenvolvedor e de QA para entregar produtos mais confiáveis.
 - 🤖 Apaixonado por <b>automação de testes</b> e por prevenir bugs antes que cheguem ao usuário.
@@ -49,7 +48,6 @@
 - 📝 **Planejamento de testes:** elaboração de plano de testes, casos de teste e cenários em <b>BDD (Gherkin)</b>.
 - 🔍 **Testes manuais e exploratórios:** funcionais, regressivos, smoke e de usabilidade.
 - 🐞 **Gestão de bugs:** registro, priorização e acompanhamento de defeitos com relatórios claros e reproduzíveis.
-- ⚙️ **CI/CD:** execução automatizada dos testes em pipelines com GitHub Actions.
 - 🧭 **Metodologias:** atuação em times <b>Ágeis (Scrum e Kanban)</b>, aplicando a pirâmide de testes, shift-left testing e testes baseados em risco.
 
 ## 📈 GitHub Stats
